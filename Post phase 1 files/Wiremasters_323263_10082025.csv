@@ -1,8 +1,0 @@
-GroupID,ServiceOffering,ClientMemberID,FirstName,LastName,AddressLine1,Column7,City,State,ZipCode,Column11,Column12,DateOfBirth,Gender,EffectiveStart,EffectiveEnd,Column17,Column18,Column19,Column20,Column21
-323263,MEDICAL,TEST000001,Firstname1,Lastname1,1 Main Street,,TestCity,TX,77801,,,10/8/1995,F,4/8/2025,,,,,,
-323263,MEDICAL,TEST000002,Firstname2,Lastname2,2 Main Street,,TestCity,TX,77802,,,10/8/1995,M,4/8/2025,,,,,,
-323263,MEDICAL,TEST000003,Firstname3,Lastname3,3 Main Street,,TestCity,TX,77803,,,10/8/1995,F,4/8/2025,,,,,,
-323263,MEDICAL,TEST000100,Firstname100,Lastname100,100 Main Street,,TestCity,TX,77800,,,10/8/1995,M,7/8/2025,,,,,,
-323263,MEDICAL,TEST000200,Firstname200,Lastname200,200 Main Street,,TestCity,TX,77800,,,10/8/1995,M,7/8/2025,,,,,,
-323263,MEDICAL,TEST000300,Firstname300,Lastname300,300 Main Street,,TestCity,TX,77800,,,10/8/1995,M,10/8/2023,,,,,,
-323263,MEDICAL,TEST000300,Firstname300,Lastname300,300 Main Street,,TestCity,TX,77800,,,10/8/1995,M,7/8/2025,,,,,,
